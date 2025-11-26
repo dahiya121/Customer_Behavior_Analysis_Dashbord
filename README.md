@@ -125,8 +125,9 @@ Based on the insights:
 ## 📬 Contact
 
 **Author:** Praveen Dhaiya
-**Role:** Data Analyst / Aspiring Data Scientist
+
 **Email:** *dhaiyapraveen4@gmail.com*
+
 **LinkedIn:** *www.linkedin.com/in/praveen-dahiya01*
 
 ---
